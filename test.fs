@@ -1,1 +1,2 @@
-let price = 125;
+let price = 125;;
+printfn "%i" price;;
